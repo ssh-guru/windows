@@ -11,6 +11,7 @@ Please note you may run into issues while running my scripts on Windows version 
 ransomware - scripts blocking or disabling backdoors used by popular malware/ransomware
 
 automation - general Windows scripts (unistalling software, updates etc.)
+
 .
 
 ## Contribution guidelines ##
