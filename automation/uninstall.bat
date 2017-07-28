@@ -1,3 +1,4 @@
+GOTO EndComment1
 ###########################
 ###### COMMENT PART #######
 ###########################
@@ -23,6 +24,7 @@
 ###########################
 ##### MAIN CODE PART ######
 ###########################
+:EndComment1
 
 @echo off
 wmic product where name="XXXXXXXXX" call uninstall
