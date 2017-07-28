@@ -1,4 +1,17 @@
-#This script adds files which should disable Petya Ransomware & protect Windows machines from infection in the future
+###########################
+###### COMMENT PART #######
+###########################
+
+# Petya prevention script
+# Created by Vlku 27/7/2017 - vlku@null.net
+
+# This script adds files which should disable Petya 
+# Ransomware & protect Windows machines from infection 
+# in the future. Should work on all Windows versions.
+
+###########################
+##### MAIN CODE PART ######
+###########################
 
 net session >nul 2>&1
 
