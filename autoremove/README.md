@@ -19,6 +19,7 @@ This script uses wmic to silently remove software from Windows machines. It is g
  
 4. The scritp will remove the software without notifying the user in any way. If the script fails to run it won't notify the user as well.
 
+<<<<<<< HEAD
 NOTE: You can use * sign to remove multiple, similarly named software (ie. Chrome Update & Chrome 42.2 == Chrome*) at the same time.
 
 .
@@ -34,3 +35,6 @@ All forks for the scripts in this repo should be created under separate branches
 ## Who do I talk to? ##
 
 Repository owner: Paweł Wilk | vlku@null.net
+=======
+NOTE: You can use '*' mark to remove multiple, similarly named software (ie. Chrome Update & Chrome 42.2 == Chrome*) at the same time.
+>>>>>>> 66997545f0b05492f5162e948641a614a93ea9ad
