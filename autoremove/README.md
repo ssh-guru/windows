@@ -1,5 +1,4 @@
 # Windows silent unistallation script #
-### Created by Vlku 27/7/2017 - vlku@null.net ###
 
 .
 
@@ -16,10 +15,9 @@ This script uses wmic to silently remove software from Windows machines. It is g
 2. Replace YYYYYYYYY with the name of the service you wish to stop. You can find the name of the service in the Services snap-in. You need to stop a service to disable a program if it won't be completely uninstalled on an end client untill system reboots.
 
 3. Start the script by double clicking the .bat file or running it off command line. You can also use a remote management software such as NagiOS or N-Able N-Centra to run the script remotely.
- 
+
 4. The scritp will remove the software without notifying the user in any way. If the script fails to run it won't notify the user as well.
 
-<<<<<<< HEAD
 NOTE: You can use * sign to remove multiple, similarly named software (ie. Chrome Update & Chrome 42.2 == Chrome*) at the same time.
 
 .
@@ -35,6 +33,3 @@ All forks for the scripts in this repo should be created under separate branches
 ## Who do I talk to? ##
 
 Repository owner: Paweł Wilk | vlku@null.net
-=======
-NOTE: You can use '*' mark to remove multiple, similarly named software (ie. Chrome Update & Chrome 42.2 == Chrome*) at the same time.
->>>>>>> 66997545f0b05492f5162e948641a614a93ea9ad
